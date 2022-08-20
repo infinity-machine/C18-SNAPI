@@ -10,4 +10,4 @@ https://github.com/kingSHLERM
 ccarciofini@gmail.com
 
 ## DEMO VIDEO
-[SOCIAL NETWORK API VIDEO](https://nerd-alert-tech-blog.herokuapp.com/)
+[SOCIAL NETWORK API VIDEO](https://www.youtube.com/watch?v=IknhSgUzSs0&feature=youtu.be)
